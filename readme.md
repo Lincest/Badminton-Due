@@ -1,4 +1,4 @@
-> 用于西电体育http://tyb.meetingcn.org的羽毛球场地预定
+> 用于西电体育(http://tyb.meetingcn.org)的羽毛球场地预定
 
 ## 食用步骤
 
