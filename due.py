@@ -174,4 +174,4 @@ class Due(Credentials):
         # if not candue:
         #     print("没有该时段的场地可以预定了哦~")
         due_place.sort()
-        return due_place  # 返回可以预定场地号的曾序列表
+        return due_place  # 返回可以预定场地号的增序列表

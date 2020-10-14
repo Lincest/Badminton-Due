@@ -1,5 +1,5 @@
-libxduauth==1.4.0
 beautifulsoup4==4.9.1
+libxduauth==1.4.0
 pytesseract==0.3.4
 importlib_resources==3.0.0
 requests==2.24.0
