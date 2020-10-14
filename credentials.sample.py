@@ -1,3 +1,4 @@
+# 填写完毕后文件名改为->credentials.py
 class Credentials():
     def __init__(self):
         self.IDS_USERNAME = ""  # 学号
